@@ -94,7 +94,7 @@ if(isset($_POST['submit'])){
         </div>
       </section>
 
-      <!-- ************  CONTACT INFO / SOCIAL MEDIA  ************ -->
+      
       <footer>
         <div class="content-wrap">
           <h2>Let's Keep in Touch!</h2>
